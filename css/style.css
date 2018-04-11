@@ -1,0 +1,74 @@
+/* Rectangle */
+
+body {
+    background-image: url('../images/bg.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+/* 12th, April 2018 */
+
+.date {
+    position: relative;
+    width: 446px;
+    height: 68px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 2em;
+    margin: auto;
+    margin-top: 2%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+/* Rectangle 2 */
+
+.rectangledate {
+    position: absolute;
+    width: 289px;
+    height: 51px;
+    background: #FFFFFF;
+}
+
+
+/* 2:15 AM */
+
+.time {
+    position: relative;
+    width: 446px;
+    height: 68px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 1.5em;
+    margin: auto;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+/* HNG INTERNSHIP 4.0 STAGE 1 TASK */
+
+.title {
+    display: block;
+    width: 418px;
+    height: 58px;
+    font-family: Roboto;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 1.5em;
+    margin: auto;
+    margin-top: 15%;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+}
